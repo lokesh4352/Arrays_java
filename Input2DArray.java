@@ -22,7 +22,7 @@ public class Input2DArray
         {
             for(int j=0;j<c;j++)
             {
-                System.err.println(arr[i][j] + " ");
+                System.out.print(arr[i][j] + " ");
             }
             System.out.println();
         }
